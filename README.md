@@ -5,7 +5,7 @@ I have the solution for you fella boomers, enough Monsters for today and go inst
 
 # Instalation
 
-It's one of my first utilitary scripts, please be indulgent !
+It's one of my first utility scripts, please be indulgent !
 
     (sudo) npm install -g enrichmus
 

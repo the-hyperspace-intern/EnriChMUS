@@ -29,7 +29,9 @@
   },
   "homepage": "https://github.com/Ginkoe/EnriChMUS#readme",
   "dependencies": {
+    "colors": "^1.3.3",
     "discord-rpc": "^3.0.1",
-    "moment": "^2.24.0"
+    "moment": "^2.24.0",
+    "winston": "^3.2.1"
   }
 }
