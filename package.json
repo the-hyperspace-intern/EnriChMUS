@@ -1,0 +1,35 @@
+{
+  "name": "enrichmus",
+  "version": "1.0.0",
+  "description": "Add a Discord Presence for CMUS",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test.js",
+    "this": "./main.js"
+  },
+  "bin": {
+    "enrichmus": "./main.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ginkoe/EnriChMUS.git"
+  },
+  "keywords": [
+    "cmus",
+    "music",
+    "discord",
+    "presence",
+    "rich"
+  ],
+  "author": "Ginkoe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ginkoe/EnriChMUS/issues"
+  },
+  "homepage": "https://github.com/Ginkoe/EnriChMUS#readme",
+  "dependencies": {
+    "discord-rpc": "^3.0.1",
+    "moment": "^2.24.0"
+  }
+}

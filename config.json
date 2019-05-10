@@ -1,0 +1,12 @@
+{
+    "clientId": "576447105745289218",
+    "time": "overall",
+    "assets": {
+        "image_key": "playing_state",
+        "image_text": "CMUS ~ "
+    },
+    "path": {
+        "cmus_cache": ""
+    },
+    "version": "BETA 0.1"
+}
