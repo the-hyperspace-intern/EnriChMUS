@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "name": "Gulp",
+      "type": "node",
+      "command": "node ./main.js",
+      "inspect-brk": true
+    }
+  ]
+}

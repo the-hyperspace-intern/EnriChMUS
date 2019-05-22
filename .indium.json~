@@ -1,0 +1,9 @@
+{
+  "configurations": [
+    {
+      "name": "General",
+      "type": "node",
+      "inspect-brk": true
+    }
+  ]
+}
